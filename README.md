@@ -3,8 +3,8 @@
 * The python code is in .py file, and try to run FAST_onoff_main.py
 * onoff_2022.par and observation_2022.txt are the file path and observation settings, respectively.
 * The data, KY file and output files are saved in the accordingly spectra.
-* If you use this code processing you data, please cite our papers.
-  https://ui.adsabs.harvard.edu/abs/2024arXiv240319447Y/abstract
+* If you use this code processing you data, please cite our papers.  
+  https://ui.adsabs.harvard.edu/abs/2024arXiv240319447Y/abstract  
   @ARTICLE{2024arXiv240319447Y,
        author = {{Yu}, Niankun and {Zheng}, Zheng and {Tsai}, Chao-Wei and {Zuo}, Pei and {Ellison}, Sara L. and {Stark}, David V. and {Li}, Di and {Wu}, Jingwen and {Masters}, Karen L. and {Xiao}, Ting and {Zheng}, Yinghui and {Li}, Zongnan and {Zhang}, Kai and {Chen}, Hongying and {Liu}, Shu and {Jiao}, Sihan and {Meng}, Fanyi},
         title = "{The ALMaQUEST Survey XV: The Dependence of the Molecular-to-Atomic Gas Ratios on Resolved Optical Diagnostics}",
@@ -21,7 +21,7 @@ archivePrefix = {arXiv},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2024arXiv240319447Y},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
-  https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.3085Z/abstract
+  https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.3085Z/abstract  
   @ARTICLE{2020MNRAS.499.3085Z,
        author = {{Zheng}, Zheng and {Li}, Di and {Sadler}, Elaine M. and {Allison}, James R. and {Tang}, Ningyu},
         title = "{A pilot search for extragalactic OH absorption with FAST}",
