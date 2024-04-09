@@ -1,8 +1,8 @@
 # The final H I spectra for the ALMaQUEST galaxies is saved in FAST_hi_final.
-# The FAST observation setting is shown in 7815_12705_FASTobservation.jpg
-# The python code is in .py file, and try to run FAST_onoff_main.py
-# onoff_2022.par and observation_2022.txt are the file path and observation settings, respectively.
-# The data, KY file and output files are saved in the accordingly spectra.
+* The FAST observation setting is shown in 7815_12705_FASTobservation.jpg
+* The python code is in .py file, and try to run FAST_onoff_main.py
+* onoff_2022.par and observation_2022.txt are the file path and observation settings, respectively.
+* The data, KY file and output files are saved in the accordingly spectra.
 * If you use this code processing you data, please cite our papers.
   https://ui.adsabs.harvard.edu/abs/2024arXiv240319447Y/abstract
   @ARTICLE{2024arXiv240319447Y,
