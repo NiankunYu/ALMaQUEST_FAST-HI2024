@@ -1,4 +1,5 @@
 # The final H I spectra for the ALMaQUEST galaxies is saved in FAST_hi_final.
+# For more complete data, please download via "https://pan.quark.cn/s/b0fec5c76365" from 夸克网盘
 * The FAST observation setting is shown in 7815_12705_FASTobservation.jpg
 * The python code is in .py file, and try to run FAST_onoff_main.py
 * onoff_2022.par and observation_2022.txt are the file path and observation settings, respectively.
