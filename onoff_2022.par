@@ -1,0 +1,5 @@
+projectname = PT2022_0091
+datapath = /Users/yuniankun/PROJECT/paper4_almaquest/2sample/fastData/pipeline_public/data/
+dataKY = /Users/yuniankun/PROJECT/paper4_almaquest/2sample/fastData/pipeline_public/KY/
+outpath = /Users/yuniankun/PROJECT/paper4_almaquest/2sample/fastData/pipeline_public/output/
+freq0 = 1420.405752
