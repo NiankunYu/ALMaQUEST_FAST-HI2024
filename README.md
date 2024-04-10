@@ -1,5 +1,5 @@
-# The final H I spectra for the ALMaQUEST galaxies is saved in FAST_hi_final.
-# For more complete data, please download via "https://pan.quark.cn/s/b0fec5c76365" from 夸克网盘
+## The final H I spectra for the ALMaQUEST galaxies is saved in FAST_hi_final.
+## For more complete data, please download via "https://pan.quark.cn/s/b0fec5c76365" from 夸克网盘
 * The FAST observation setting is shown in 7815_12705_FASTobservation.jpg
 * The python code is in .py file, and try to run FAST_onoff_main.py
 * onoff_2022.par and observation_2022.txt are the file path and observation settings, respectively.
@@ -22,7 +22,8 @@ archivePrefix = {arXiv},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2024arXiv240319447Y},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
-  https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.3085Z/abstract  
+
+  https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.3085Z/abstract   
   @ARTICLE{2020MNRAS.499.3085Z,
        author = {{Zheng}, Zheng and {Li}, Di and {Sadler}, Elaine M. and {Allison}, James R. and {Tang}, Ningyu},
         title = "{A pilot search for extragalactic OH absorption with FAST}",
@@ -40,5 +41,6 @@ archivePrefix = {arXiv},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.3085Z},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+
 * If you need any help, please send me emails: niankunyu@bao.ac.cn.
 
